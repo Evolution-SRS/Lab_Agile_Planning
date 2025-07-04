@@ -8,7 +8,7 @@ assignees: ''
 ---
 
 **As a** [role]  
- **I need/want** [a function, an action]  
+ **I need** [a function, an action]  
  **So that** [I can get benefit / value ]  
    
  ### Details and Assumptions
